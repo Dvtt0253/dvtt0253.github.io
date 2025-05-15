@@ -60,23 +60,16 @@ const CONFIG = {
     linkedin: 'https://www.linkedin.com/in/joie-harvey-756375360',
  
   
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
+   
+  
+   
+    
+     // example: '1/jeff-atwood'
+    
+   
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'Joie.Harvey1@gmail.com',
   },
   resume: {
     fileUrl:
@@ -99,22 +92,7 @@ const CONFIG = {
     'Burpsuite',
     'Java - Basic to Intermediate',
   ],
-  experiences: [
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
-  ],
+ 
   certifications: [
     {
       name: 'Lorem ipsum',
@@ -123,20 +101,7 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
-  educations: [
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
-  ],
+  
   publications: [
     {
       title: 'Publication Title',
