@@ -70,6 +70,7 @@ const CONFIG = {
     'Kali Linux',
     'Burpsuite',
     'Java - Basic to Intermediate',
+    'PostgreSQL'
   ],
  
   certifications: [
