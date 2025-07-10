@@ -36,7 +36,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/joie-harvey-756375360',
+    linkedin: 'www.linkedin.com/in/joey-harvey-756375360',
  
   
    
